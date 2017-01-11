@@ -11,17 +11,17 @@ noovo-cli requiert :
 
 ### Installation
 
-1. Installer les dépendances (le plus simple est d'utiliser pip).
+Installer les dépendances (le plus simple est d'utiliser pip) :
 
-	$ pip install NomDuPKG
+		$ pip install NomDuPKG
 
-2. Cloner le dépôt :
+Cloner le dépôt :
 
-	$ git clone https://github.com/etiennedub/noovo-cli.git && cd noovo-cli
+		$ git clone https://github.com/etiennedub/noovo-cli.git && cd noovo-cli
 
-3. Exécuter ***noovo-cli***
+Exécuter ***noovo-cli*** :
 
-	$ ./novoo-cli
+		$ ./novoo-cli
 
 Pour exécuter ***noovo-cli*** depuis n'importe quel répertoire :
 
