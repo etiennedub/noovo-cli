@@ -10,7 +10,7 @@ noovo-cli requiert :
 	* [Simplejson](https://pypi.python.org/pypi/simplejson)	
 
 ### Installation
-
+i
 Installer les dépendances (le plus simple est d'utiliser pip) :
 
 	$ pip install NomDuPKG
@@ -25,7 +25,7 @@ Exécuter ***noovo-cli*** :
 
 Pour exécuter ***noovo-cli*** depuis n'importe quel répertoire :
 
-	$ ln -s chemin/vers/dossier/bin/noovo-cli noovo-cli
+	$ ln -s noovo-cli chemin/vers/dossier/bin/noovo-cli 
 
 ### Utilisation
 	noovo-cli [-h] [-v] [-sm] [-q [QUALITY]] [-u [URL]] [-l] [-a] [title] [episode]
