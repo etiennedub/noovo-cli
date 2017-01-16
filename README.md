@@ -1,4 +1,4 @@
-***noovo-cli*** est une application en ligne de commande permettant d'obtenir le stream M3U8 des emmisions disponible sur Noovo.ca. Le stream peut être lu directement avec plusieurs lecteurs vidéos (VLC, SMPlayer, MPlayer, etc.).
+***noovo-cli*** est une application en ligne de commande permettant d'obtenir le stream M3U8 des émissions disponibles sur Noovo.ca. Le stream peut être lu directement avec plusieurs lecteurs vidéos (VLC, SMPlayer, MPlayer, etc.).
 
 Le projet est indépendant et n'est pas affilié à Noovo.ca.
 
@@ -10,7 +10,7 @@ noovo-cli requiert :
 	* [Simplejson](https://pypi.python.org/pypi/simplejson)	
 
 ### Installation
-i
+
 Installer les dépendances (le plus simple est d'utiliser pip) :
 
 	$ pip install NomDuPKG
@@ -44,4 +44,4 @@ Pour exécuter ***noovo-cli*** depuis n'importe quel répertoire :
 
 	$ noovo-cli "Un souper presque parfait" -v -l
 
-Pour visionner la dernière épisode de *Un souper presque parfait* avec VLC.
+Pour visionner le dernier épisode de *Un souper presque parfait* avec VLC.
